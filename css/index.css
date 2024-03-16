@@ -63,3 +63,13 @@
 .point-none {
   padding-left: 15px;
 }
+.bold {
+  font-weight: 700;
+}
+.project-content {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+.content {
+  padding: 10px 5px;
+}
